@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://key.wpxbox.com/img/Avngers-Endgame.jpg);
+    background-size: 100%;
+    height: 90%;
+    width: 90%;
+}
+li {
+    display: inline;
+    padding: 2%;
+}
+nav {
+    background-color:rgb(240, 45, 45);
+    padding: 10px 10px;
+    flex-direction: row;
+    align-content: center;
+    flex-shrink: 1;
+    justify-content: flex-end;
+}
+h1 {
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+h3 {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+#logo {
+    padding-right: 50%;
+}
+.button {
+    background-color: gray;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+a {
+    text-decoration: none;
+    color: black;
+}
